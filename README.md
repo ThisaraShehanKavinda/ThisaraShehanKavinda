@@ -1,73 +1,90 @@
+# 👋 Hello World, I'm Thisara Shehan Kavinda! 🌟  
 
- 👋 Hello World, I'm Thisara Shehan Kavinda! 🌟
-
-<img align="right" src="https://camo.githubusercontent.com/8474282b266f4488825a5ff9333ecc272be53f2ca9f1e4eb304e73646a64c395/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313335382f312a6752654c5236685a6a77794278486d664c4e314156772e676966" alt="Coder at Work" width="300"/>
-
-
- 🌟 About Me  
-I'm a passionate **Full Stack Software Engineer in the making**, who thrives on learning, creating, and building digital magic! ✨  
-I blend my love for **coding**, **gaming**, **video editing**, **graphic design**, and **problem-solving** into everything I do. 🚀  
-
- 🌱 **Currently Learning**  
-I'm diving deeper into **Java**, **C**, **C#**, **JavaScript**, **CSS**, **HTML**, **Python**, and **R** to craft even better applications and experiences.  
-
- 🛠️ **Tools I've Worked With**  
-- **Programming Languages**: Java, C, C#, JavaScript, Python, HTML/CSS, R  
-- **Development Tools**: Visual Studio, NetBeans, RStudio, MiniTab, Maple, MATLAB  
-- **Graphic Design**: Adobe Photoshop, Canva  
-- **Video Editing**: Wondershare Filmora, Adobe Premiere Pro  
-
- 💻 **Goals & Vision**  
-💡 My ultimate goal is to **master full-stack development** and create impactful software solutions that make the world better, one line of code at a time.  
-
- 📫 **Reach Me At**  
-Feel free to connect with me on any of these platforms:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ThisaraShehanKavinda-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/thisara-shehan-kavinda-b66044289)  
-[![Facebook](https://img.shields.io/badge/Facebook-ThisaraShehanKavinda-blue?style=for-the-badge&logo=facebook)]([https://facebook.com/yourprofile](https://www.facebook.com/thisarashehan.kavinda.9))  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-ThisaraShehanKavinda-brightgreen?style=for-the-badge&logo=whatsapp)](https://wa.me/+94757975191)  
-📧 Email: **thisara2000shehankavinda@gmail.com**  
+<div align="center"> <img src="https://camo.githubusercontent.com/8474282b266f4488825a5ff9333ecc272be53f2ca9f1e4eb304e73646a64c395/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313335382f312a6752654c5236685a6a77794278486d664c4e314156772e676966" alt="Coding Animation" width="400"/> </div>
 
 
+## 🌟 **About Me**  
+I'm a passionate **Full Stack Software Engineer in the making**, constantly learning and creating digital solutions that blend technology, creativity, and innovation!  
+I thrive on challenges and love building **scalable applications**, **dynamic UIs**, and crafting designs that captivate. 🚀  
 
- ⚡ **Fun Facts About Me**  
-- 🎮 I’m a **pro gamer** in my free time (watch out for my headshots! 🎯).  
-- 🎥 Editing videos and telling stories through visuals is my creative escape.  
-- 🎨 Love to **create stunning designs** with just a touch of Photoshop magic.  
-- 🚀 Always looking for exciting collaborations and projects. Let’s innovate together!  
+---
 
+### 💡 **Current Focus**  
+- 🏗 Building full-stack apps with **Java**, **React.js**, and **Spring Boot**  
+- 🚀 Developing modern UI/UX with **Figma**, **Tailwind CSS**, and **MUI**  
+- 🌐 Exploring **cloud computing** and **AI integrations**  
 
+---
 
- 🎯 **Some of My Magical Work**  
+## ⚒️ **Skills & Tools**  
 
-Here's a sneak peek of what I’ve been working on recently:
+### 👨‍💻 **Programming Languages**  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
 
- 🌌 **Web Development**  
-- 🌐 Interactive websites using **HTML, CSS, and JavaScript**  
-- 🛠 Full-stack applications with **Java and Python** backend  
+### 🚀 **Frameworks, Tools, & Libraries**  
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 
- 🎥 **Video Editing & Design**  
-- 🖼 Crafted eye-catching graphics using **Adobe Photoshop** and **Canva**  
-- ✂️ Edited mesmerizing videos with **Adobe Premiere Pro** and **Filmora**  
+---
 
+## 🚀 **Recent Projects**  
 
+| **Project Name** | **Description** | **Tech Stack** | **Link** |
+|-------------------|-----------------|----------------|----------|
+| 🌟 **YouTube Clone** | Fully functional YouTube clone with search, video play, and dark mode. | React.js, Youtube API | [View Project](https://github.com/ThisaraShehanKavinda/You_Yube_Clone) |
+| 🎥 **Netflix Clone** | Dynamic Netflix interface with movies & TV shows, using API integration. | React.js, TMDb API | [View Project](https://github.com/ThisaraShehanKavinda/Netflix_Clone) |
+| ☕ **Cafe Management System** | Manages orders, inventory, and billing for cafes. | Java, MySQL | [View Project](https://github.com/ThisaraShehanKavinda/cafe_MS) |
+| 🏨 **Hall Booking System** | Online hall reservation system with real-time availability. | Java, MySql | [View Project](https://github.com/ThisaraShehanKavinda/Wedding_Hall_MS) |
 
-📈 **GitHub Stats**  
+---
 
+## 📈 **GitHub Stats**  
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThisaraShehanKavinda&layout=compact&theme=radical)](https://github.com/ThisaraShehanKavinda)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThisaraShehanKavinda&show_icons=true&theme=radical" alt="Thisara's GitHub Stats" width="400px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThisaraShehanKavinda&theme=radical" alt="Thisara's Streak Stats" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisaraShehanKavinda&layout=compact&theme=radical" alt="Thisara's Top Languages" width="400px"/>
+</div>
 
+---
 
+## 🎯 **Cool Stats & Achievements**  
 
-### ✨ **Cool Random Quote**
-> “Code is like humor. When you have to explain it, it’s bad.” – *Cory House* 😄  
+- 🔥 **500+ Commits** this year!  
+- ✨ **10+ Projects** completed and counting.  
+- 🌟 Starred by developers worldwide for innovative designs.  
 
+---
 
+## 🎨 **My Creative Edge**  
 
- 🚀 **Let’s Build Something Awesome Together!**  
-I’m always up for collaborations. Whether it’s coding, gaming, editing, or designing – let’s make something **extraordinary**!
+- **Graphic Design**: Crafting stunning visuals with **Photoshop** & **Canva**.  
+- **Video Editing**: Mastering transitions and storytelling with **Premiere Pro** & **Filmora**.  
 
+---
 
+## 📫 **Let’s Connect!**  
 
-🌟 **Let’s Connect and Inspire!**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ThisaraShehanKavinda-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thisara-shehan-kavinda-b66044289)  
+[![Facebook](https://img.shields.io/badge/Facebook-ThisaraShehanKavinda-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/thisarashehan.kavinda.9)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-brightgreen?style=for-the-badge&logo=whatsapp)](https://wa.me/+94757975191)  
+📧 Email: **thisara2000shehankavinda@gmail.com**
 
+---
 
+### ✨ **Quote of the Day**  
+
+> *"Code is the closest thing to magic we have."* – Anonymous  
+
+---
+
+🌟 **Let’s Build the Future Together!**
