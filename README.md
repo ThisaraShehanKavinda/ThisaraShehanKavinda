@@ -1,6 +1,3 @@
-Here’s a modern, attractive, and engaging GitHub `README.md` to help you showcase your skills, interests, and personality. This version incorporates a mix of markdown styling, emojis, and creative formatting to make it more engaging and appealing.
-
----
 
  👋 Hello World, I'm Thisara Shehan Kavinda! 🌟
 
