@@ -39,7 +39,7 @@ I thrive on challenges and love building **scalable applications**, **dynamic UI
     </a>
 </p>
 
-<h3 align="left">Web Development:</h3>
+<h3 align="left"> Web Development:</h3>
 <p align="left">
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
