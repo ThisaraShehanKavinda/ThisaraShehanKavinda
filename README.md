@@ -204,7 +204,7 @@ I thrive on challenges and love building **scalable applications**, **dynamic UI
 
 ## 🎯 **Cool Stats & Achievements**  
 
-- 🔥 **500+ Commits** this year!  
+- 🔥 **100+ Commits** this year!  
 - ✨ **10+ Projects** completed and counting.  
 - 🌟 Starred by developers worldwide for innovative designs.  
 
