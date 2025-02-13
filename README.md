@@ -3,6 +3,7 @@
 <div align="center"> <img src="https://camo.githubusercontent.com/8474282b266f4488825a5ff9333ecc272be53f2ca9f1e4eb304e73646a64c395/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313335382f312a6752654c5236685a6a77794278486d664c4e314156772e676966" alt="Coding Animation" width="400"/> </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisarashehankavinda&label=Profile%20views&color=0e75b6&style=flat" alt="thisarashehankavinda" /> </p>
+<img src="https://github.com/mishmanners/MishManners/blob/output/github-snake.svg" />
 
 
 ## 🌟 **About Me**  
