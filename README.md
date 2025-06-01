@@ -196,7 +196,7 @@ I thrive on challenges and love building **scalable applications**, **dynamic UI
 
 <div align="center">
  
-  <img src="https://github-readme-stats.vercel.app/api?username=ThisaraShehanKavinda&show_icons=true&theme=radical" alt="Thisara's GitHub Stats" width="400px"/>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThisaraShehanKavinda&theme=radical" alt="Thisara's Streak Stats" width="400px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisaraShehanKavinda&layout=compact&theme=radical" alt="Thisara's Top Languages" width="400px"/>
 </div>
