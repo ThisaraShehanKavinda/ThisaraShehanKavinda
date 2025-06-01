@@ -184,11 +184,14 @@ I thrive on challenges and love building **scalable applications**, **dynamic UI
 ## 🚀 **Recent Projects**  
 
 | **Project Name** | **Description** | **Tech Stack** | **Link** |
-|-------------------|-----------------|----------------|----------|
-| 🌟 **YouTube Clone** | Fully functional YouTube clone with search, video play, and dark mode. | React.js, Youtube API | [View Project](https://github.com/ThisaraShehanKavinda/You_Yube_Clone) |
+|------------------|-----------------|----------------|----------|
+| 🌟 **YouTube Clone** | Fully functional YouTube clone with search, video play, and dark mode. | React.js, YouTube API | [View Project](https://github.com/ThisaraShehanKavinda/You_Yube_Clone) |
 | 🎥 **Netflix Clone** | Dynamic Netflix interface with movies & TV shows, using API integration. | React.js, TMDb API | [View Project](https://github.com/ThisaraShehanKavinda/Netflix_Clone) |
 | ☕ **Cafe Management System** | Manages orders, inventory, and billing for cafes. | Java, MySQL | [View Project](https://github.com/ThisaraShehanKavinda/cafe_MS) |
-| 🏨 **Hall Booking System** | Online hall reservation system with real-time availability. | Java, MySql | [View Project](https://github.com/ThisaraShehanKavinda/Wedding_Hall_MS) |
+| 🏨 **Hall Booking System** | Online hall reservation system with real-time availability. | Java, MySQL | [View Project](https://github.com/ThisaraShehanKavinda/Wedding_Hall_MS) |
+| 🔐 **Auth System (MERN)** | Register/Login system with password hashing and JWT-based authentication. | MongoDB, Express, React, Node.js, Bcrypt, JWT | [View Project](https://github.com/ThisaraShehanKavinda/Fullstack-Login-Register-Page-with-MERN.git) |
+| 📝 **Lamtie 2K24 Registration** | Event registration system using email service and calendar integration. | React, EmailJS, Google Calendar API | [View Project](https://github.com/ThisaraShehanKavinda/LAMITIE-2K24.git) |
+| 🎨 **AI Image Generator** | Generate AI images using Stable Diffusion model via Hugging Face. | React, Hugging Face API | [View Project](https://github.com/ThisaraShehanKavinda/ai-image-generatorw.git) |
 
 ---
 
